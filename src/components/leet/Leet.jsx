@@ -12,11 +12,7 @@ const Leet = () => {
           rel="noopener noreferrer"
           className="profile-link"
         >
-          <img
-            src="../images/leetcode.png" // Path to LeetCode image
-            alt=""
-            className="profile-image"
-          />
+        
           Visit my LeetCode Profile
         </a>
         <a
@@ -25,11 +21,6 @@ const Leet = () => {
           rel="noopener noreferrer"
           className="profile-link"
         >
-          <img
-            src="gfg.png" // Path to GitHub image
-            alt=""
-            className="profile-image"
-          />
         Visit my GeeksforGeeks Profile
         </a>
       </div>
