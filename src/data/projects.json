@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/projects.webp",
+    "description": "This project was developed to learn Reactjs. I built a movie app using The Movie Database (TMDB) API.Through this project, I gained hands-on experience with state management, asynchronous data fetching, and integrating external APIs into a React application.",
+    "skills": ["React", "React Redux", "Sass"],
+    "demo": "https://github.com/18Rutuja/Movie-App-TMDB",
+    "source": "https://github.com/18Rutuja"
+  },
+  {
+    "title": "To Do App",
+    "imageSrc": "projects/projects.webp",
+    "description": "This project was created to learn the latest web development technologies by building a to-do list app with React. Building this to-do list app allowed me to practice creating interactive user interfaces, managing application state, and implementing features like adding, editing, and deleting tasks.",
+    "skills": ["React", "React Redux", "CSS"],
+    "demo": "https://to-do-app-amber-chi.vercel.app/",
+    "source": "https://github.com/18Rutuja"
+  },
+  {
+    "title": "Eye And Face Detector",
+    "imageSrc": "projects/projects.webp",
+    "description": "I developed a project face and eye detection app using Python and OpenCV. The app detects faces and eyes in real-time, allowing me to explore computer vision and image processing techniques. This project gave me practical experience in applying OpenCV for real-world applications.",
+    "skills": ["Python", "OpenCv", "Python Libraries"],
+    "demo": "https://github.com/18Rutuja/OpenCv",
+    "source": "https://github.com/18Rutuja"
+  },
+  {
+    "title": "Cyber Security Website",
+    "imageSrc": "projects/projects.webp",
+    "description": "My college's SWAG club launched a cybersecurity project to raise awareness about cybercrime among school and college students. The project uses an interactive website where students take exams to test their cybersecurity knowledge. As the web coordinator for this project, I'm responsible for designing and maintaining the website. ",
+    "skills": ["Html", "CSS", "JavaScript","Firebase"],
+    "demo": "https://github.com/18Rutuja",
+    "source": "https://github.com/18Rutuja"
+  },
+  {
+    "title": "Various Projects",
+    "imageSrc": "projects/projects.webp",
+    "description": "I've developed several projects besides the movie app, including a tic-tac-toe game, a digital watch, a password generator, a background changer, a weather app, and a currency converter. These projects helped me expand my skills in various aspects of web development, from DOM manipulation and event handling to API integration and state management.",
+    "skills": ["Html", "CSS", "JS", "CPP", "tailwind CSS" , "React"],
+    "demo": "https://github.com/18Rutuja",
+    "source": "https://github.com/18Rutuja"
+  }
+
+]

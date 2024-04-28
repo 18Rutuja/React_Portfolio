@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Secretary",
+    "organisation": "Team Kautilya",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "experiences": ["An Finance and Enterprenership Development cell under AICTE Idea lab"],
+    "imageSrc": "history/Kaulogo.jpg"
+  },
+  {
+    "role": "Student Ambassador",
+    "organisation": "IIT Bombay",
+    "startDate": "June, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": ["I am student ambassador at IIT Bombay I represents the institute at various events, engages with prospective students, and helps promote the institution's programs and values. This role involves communication, leadership, and collaboration to foster community connections and support new students."],
+    "imageSrc": "history/iiit.png"
+  }
+  
+]

@@ -1,0 +1,29 @@
+.download-resume {
+    text-align: center; /* Centers the content */
+    margin: 20px 0;    /* Adds some spacing */
+  }
+  
+  .download-link {
+    background-color: rgb(177, 43, 210); 
+    color: white;              
+    padding: 10px 20px;        
+    border-radius: 50px;        
+    text-decoration: none;    
+    font-size: 26px;           
+    transition: all 0.3s;      
+  }
+  
+  .download-link:hover {
+    background-color:  rgb(69, 15, 83); 
+  }
+  @media (max-width: 600px) {
+    .download-link {
+      padding: 8px 15px;     /* Smaller padding on mobile */
+      font-size: 18px;       /* Smaller font size */
+      border-radius: 50px;    /* Less rounded corners */
+    }
+  
+    .download-resume {
+      margin: 15px 0;        /* Slightly smaller margin */
+    }
+  }
