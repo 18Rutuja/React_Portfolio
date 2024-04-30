@@ -51,6 +51,12 @@
     flex-direction: column;
     gap: 23px;
   }
+  h2{
+    font-size:20px;
+  }
+  a{
+    font-size: 14px;
+  }
 
   .text {
     display: flex;
