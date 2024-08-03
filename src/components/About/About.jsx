@@ -19,11 +19,10 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>B.Tech Student</h3>
               <p>
-              I am Rutuja Prem Rathod, a third-year student majoring in Electronics and Telecommunication at 
-              Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded. As a passionate web developer,
-               I thrive on exploring the latest technologies and consistently seek opportunities to enhance my coding skills.
-                I enjoy creating responsive, user-friendly websites, 
-              and I'm driven by a genuine enthusiasm for learning and innovation in the field of web development and DSA in CPP.
+             Hi, I’m Rutuja Prem Rathod, a final-year Electronics and Telecommunication student at Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded.
+
+I’m passionate about web development and skilled in the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). I love exploring new technologies and improving my coding skills. My goal is to create responsive, user-friendly websites and apps. 
+                I’m excited about learning and innovating in web development and C++ data structures and algorithms. Check out my portfolio to see my work and get in touch!
               </p>
             </div>
           </li>
@@ -32,7 +31,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>ReactJs Developer</h3>
               <p>
-              I'm a frontend developer with experience in building responsive and optimized websites, and I'm also skilled in React development.
+              I'm a MERN stack developer with experience in building responsive and optimized websites, and I'm also skilled in React development.
               </p>
             </div>
           </li>
