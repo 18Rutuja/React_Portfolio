@@ -1,5 +1,13 @@
 [
-  {
+   {
+    "title": "Food Delivery App",
+    "imageSrc": "projects/projects.webp",
+    "description": "I developed a full-stack food delivery project using React.js for the frontend and Node.js with Express for the APIs. The database is managed with MongoDB. Users can sign up, log in, place orders, make payments, track orders, and cancel orders.",
+    "skills": ["React", "React Redux", "css" , "NodeJs" , "MongoDB" ],
+    "demo": "https://drive.google.com/file/d/1w8h6tgyMGS3cHhDCt5B8WOgQC7_NWuWC/view",
+    "source": "https://github.com/18Rutuja/Food-delivery-App"
+  },
+   {
     "title": "Movie App",
     "imageSrc": "projects/projects.webp",
     "description": "This project was developed to learn Reactjs. I built a movie app using The Movie Database (TMDB) API.Through this project, I gained hands-on experience with state management, asynchronous data fetching, and integrating external APIs into a React application.",
