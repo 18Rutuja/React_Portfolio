@@ -29,7 +29,7 @@ I’m passionate about web development and skilled in the MERN stack (MongoDB, E
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>ReactJs Developer</h3>
+              <h3>MERN Developer</h3>
               <p>
               I'm a MERN stack developer with experience in building responsive and optimized websites, and I'm also skilled in React development.
               </p>
@@ -40,7 +40,7 @@ I’m passionate about web development and skilled in the MERN stack (MongoDB, E
             <div className={styles.aboutItemText}>
               <h3>Problem Solving</h3>
               <p>
-              I have intermediate knowledge in Data Structures and Algorithms (DSA) in C++. I have solved over 500 questions on LeetCode and GeeksforGeeks, earning three badges from LeetCode and a 'Bag' award from GeeksforGeeks.
+              I have good knowledge in Data Structures and Algorithms (DSA) in C++. I have solved over 600 questions on LeetCode and GeeksforGeeks, earning four badges from LeetCode and a 'Bag' award from GeeksforGeeks.
               </p>
             </div>
           </li>
